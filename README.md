@@ -42,7 +42,7 @@ public static IEnumerable<GivenWhenThenTestCaseData> TestCases
 }
 ```
 
-![Runner Example](docs/runnerExmple.png)
+![Runner Example](docs/runnerExample.png)
 
 ## Using GivenWhenThen
 
