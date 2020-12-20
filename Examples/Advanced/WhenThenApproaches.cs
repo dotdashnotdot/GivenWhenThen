@@ -1,4 +1,4 @@
-namespace FakeApplication.UnitTests
+namespace FakeApplication.UnitTests.Advanced
 {
     using FakeApplication.UnitTests.Creators;
     using GivenWhenThen;
